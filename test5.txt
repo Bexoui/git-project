@@ -1,0 +1,14 @@
+ Le volume dans le lecteur C n'a pas de nom.
+ Le num‚ro de s‚rie du volume est BE79-6E22
+
+ R‚pertoire de C:\Users\ASUS\Desktop\my project
+
+09/12/2020  18:43    <DIR>          .
+09/12/2020  18:43    <DIR>          ..
+09/12/2020  18:43    <DIR>          .git
+09/12/2020  18:43                45 Localisation.txt
+09/12/2020  14:52               138 test1
+09/12/2020  15:27               477 test2.html
+09/12/2020  18:43                 0 test5.txt
+               4 fichier(s)              660 octets
+               3 R‚p(s)  158ÿ698ÿ803ÿ200 octets libres
